@@ -2,7 +2,7 @@ name: SoS-environment
 channels:
   - conda-forge
 dependencies:
-  - python3
+  - python
   - jupyter
   - sos
   - tabulate
