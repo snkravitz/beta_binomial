@@ -2,7 +2,19 @@ name: SoS-environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python3
+  - ipython3
+  - jupyter
+  - jupyter-bundlerextension
+  - jupyter-kernel
+  - jupyter-kernelspec
+  - jupyter-migrate
+  - jupyter-nbconvert
+  - jupyter-nbextension
+  - jupyter-notebook
+  - jupyter-run
+  - sos
+  - sos-runner
   - pip:
     - nbgitpuller
     - pandas
