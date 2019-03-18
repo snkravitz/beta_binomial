@@ -1,0 +1,9 @@
+name: SoS-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip:
+    - nbgitpuller
+    - pandas
+    - matplotlib
