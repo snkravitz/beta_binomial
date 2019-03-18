@@ -1,0 +1,6 @@
+install.packages("dplyr")
+install.packages("rmarkdown")
+install.packages("ggplot2")
+install.packages("apeglm")
+install.packages("rafalib")
+install.packages("locfdr")
